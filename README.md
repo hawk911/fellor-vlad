@@ -1,6 +1,6 @@
 ## 🧪 Developer Test Brief – Hiring Insights Chart Component
 
-![Screenshot of the Hiring Insights Component](public/images/screenshots.png)
+![Screenshot of the Hiring Insights Component](public/images/screenshot.png)
 
 ## 🚀 Getting Started
 
